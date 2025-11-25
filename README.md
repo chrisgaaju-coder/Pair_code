@@ -108,6 +108,6 @@ if (config.SESSION_ID) {
 
 ## 📦 Installation
 ```bash
-git clone https://github.com/chrisgaaju-coder/starcore-session.git
+git clone https://github.com/chrisgaaju-coder/pair_code.git
 cd starcore-session
 npm install
