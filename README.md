@@ -1,4 +1,4 @@
-# 🔥 Starcore Session
+# 🔥 Pair Code
 
 **Ultra-Light Pair Session Generator for Baileys Bots**  
 ✨ *One-click authentication • Encrypted sessions • Cross-platform*
